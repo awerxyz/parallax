@@ -166,7 +166,7 @@ main{
     }
 }
 
-@media (max-width: 370px){
+@media (max-width: 390px){
     header nav{
         padding: 0 1rem;
     }
@@ -204,7 +204,7 @@ main{
     .rightOrchid{
         width: initial;
         height: 70%;
-        top: 15vh;
+        top: 8vh;
         right: 50%;
         left: -130%;
     }
